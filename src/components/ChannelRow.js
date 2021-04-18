@@ -25,8 +25,6 @@ function ChannelRow({
         </p>
         <p>{description}</p>
       </div>
-
-      <hr />
     </div>
   );
 }
